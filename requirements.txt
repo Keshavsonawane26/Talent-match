@@ -1,0 +1,11 @@
+Flask
+pymongo
+flask-login
+flask-wtf
+wtforms
+flask-bcrypt
+gridfs
+spacy
+pymongo[srv]
+werkzeug
+pyspark
